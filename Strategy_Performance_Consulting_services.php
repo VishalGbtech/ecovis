@@ -78,10 +78,10 @@
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Strategic Thinking & Planning</p>
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Strategy & Performance Consulting</p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                                Strategic thinking and planning is a deliberate and reasonable thought process that focuses on the examination of crucial factors and variables that will influence a company's, team's, or individual's long-term performance.
+                                Strategy & Performance Consulting is a deliberate and reasonable thought process that focuses on the examination of crucial factors and variables that will influence a company's, team's, or individual's long-term performance.
                             </p>
                         </div>
                     </div>

@@ -187,7 +187,7 @@
     </div>
     <div class="row mx-0 justify-content-center">
         <div class="col-lg-10 col-sm-11">
-            <div class="row mx-0 mb-4">
+            <div class="row mx-0 mb-4" id="ServicesOffered">
 
                 <div class="col-lg-4 col-md-6 col-sm-6 serviceColomn">
                     <a href="./Strategy_Performance_Consulting_services" class="text-dark" style="text-decoration: none;">

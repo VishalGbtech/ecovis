@@ -186,7 +186,9 @@
           
         </div>
 
+
     </footer>
+    <script src="./js/javascript.js"></script>
 
     <!-- <footer class="border" style="background:#fff;">
         <div class="">

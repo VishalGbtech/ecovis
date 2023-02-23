@@ -19,14 +19,11 @@
         <div class="">
             <!-- <p class="mainHeading text-center text-light">mentor BI</p> -->
             <div class="text-center">
-                <img src="./images/ecovis_logoes/Mentor_bi.png" class="mb-4" style="width: 180px !important;" alt="">
+                <a href="https://mentor-bi.com/About-us.html" class="font-weight-bold" style="text-decoration: none; color:#df7b45;"> <img src="./images/ecovis_logoes/Mentor_bi.png" class="mb-4" style="width: 180px !important;" alt=""></a>
+
 
             </div>
-            <p class="mx-auto normalText text-center text-justify text-light w-75">In a world defined by constant disruption, there is a growing need to impact business on multiple dimensions
-                to ensure sustainable growth. No one person has all the answers. In this context, it becomes imperative for
-                leaders to leverage the wisdom of many to find the solutions. It is this expertise of that mentor-bi consultants
-                bring to partner businesses & leaders with this purpose of creating business impact. We call it <a href="https://mentor-bi.com/About-us" class="font-weight-bold" style="text-decoration: none; color:#df7b45;">“Co-creating Business
-                Impact”</a>.</p>
+            <p class="mx-auto normalText text-center text-justify text-light w-75"><a href="https://mentor-bi.com/About-us.html" class="font-weight-bold" style="text-decoration: none; color:#df7b45;">“mentor-bi”</a> is an offering developed by two international consulting firms that have consulted with well-known organisations. Each firm brings expertise in building key elements that strengthen an organisation's DNA for growing sustainably. The offerings are built on strong frameworks & technologies that help co-create business impact with ownership of the organisation team.</p>
         </div>
         <!-- <img src="" alt=""> -->
     </div>

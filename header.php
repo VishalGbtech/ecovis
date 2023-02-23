@@ -276,26 +276,12 @@
                     <div class="row mt-3">
                         <div class="col-md-6 col-sm-12">
                             <ul class="list-unstyled mb-0">
-                                <a href="./Government_risk_compliance" style="text-decoration: none;" class="text-dark">
-                                    <li class="mb-1 serviceList">
-                                        <div class="align-items-center row">
-                                            <div class="col-3 pr-0 text-center w-75  menu_services_logo Risk_Compliance_logo "></div>
-                                            <div class="col-9 pl-0">
-                                                <h5 class="mb-1 serviceName">Legal, Risk and IPR Practice </h5>
-                                                <p class="mb-0 small">We prepare organizations for any unexpected challenges</p>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </a>
-                            </ul>
-                        </div>
-                        <div class="col-md-6 col-sm-12">
-                            <ul class="list-unstyled mb-0">
                                 <a href="./Digital_transformation" style="text-decoration: none;" class="text-dark">
                                     <li class="mb-1 serviceList">
                                         <div class="align-items-center row">
                                             <div class="col-3 pr-0 text-center w-75 ">
-<!--                                                <img src="./images/ecovis_logoes/cropped-cropped-GBT-Logo-pb6aaz3tk8zujck85gf83t01gtnv4kti5umsp0vgnc-1-1.png" class="" style="width: 67%;" alt="">-->
+                                                <img src="./ecovis/images/ecovis_logoes/gbtLogo.png" class="" style="width: 67%;"
+                                           alt="">
                                             </div>
                                             <div class="col-9 pl-0">
                                                 <h5 class="mb-1 serviceName">Digital Transformations</h5>
@@ -307,42 +293,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="row mt-3">
-                        <div class="col-md-6 col-sm-12">
-                            <ul class="list-unstyled mb-0">
-                                <a href="./BusinessSupportandFinancialReporting" style="text-decoration: none;" class="text-dark">
-                                    <li class="mb-1 serviceList">
-                                        <div class="align-items-center row">
-                                            <div class="col-3 pr-0 text-center w-75  ">
-                                                <img src="./images/ecovis_logoes/pcgrkcalogo.png" class="" style="width: 67%;" alt="">
-                                            </div>
-                                            <div class="col-9 pl-0">
-                                                <h5 class="mb-1 serviceName">Business support & Financial reporting</h5>
-                                                <p class="mb-0 small">Offering accounting and management services to grow your business.</p>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </a>
-                            </ul>
-                        </div>
-                        <div class="col-md-6 col-sm-12">
-                            <ul class="list-unstyled mb-0">
-                                <a href="./Crossborderandmerchantbankingservices" style="text-decoration: none;" class="text-dark">
-                                    <li class="mb-1 serviceList">
-                                        <div class="align-items-center row">
-                                            <div class="col-3 pr-0 text-center w-75">
-                                                <img src="./images/ecovis_logoes/Ecovis_reverse.png" class="" style="width: 82%;" alt="">
-                                            </div>
-                                            <div class="col-9 pl-0">
-                                                <h5 class="mb-1 serviceName">Cross Border & Merchant Banking Advice</h5>
-                                                <p class="mb-0 small">Capacity and Capability to enable your vision</p>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </a>
-                            </ul>
-                        </div>
-                    </div>
+
                 </div>
             </div>
         </div>
