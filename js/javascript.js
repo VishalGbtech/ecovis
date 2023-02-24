@@ -26,33 +26,73 @@ $("#client_stories_1").mouseover(function (e) {
     $(this).attr("src", $(this).attr("src").replace("ecovis_new_images/baggingoutcomes_b.jpg", "ecovis_new_images/baggingoutcomes_r.jpg"));
 }).mouseout(function (e) {
     $(this).attr("src", $(this).attr("src").replace("ecovis_new_images/baggingoutcomes_r.jpg", "ecovis_new_images/baggingoutcomes_b.jpg"));
-    });
+});
 
 // Services offered by our experts at Ecovis
-const ServicesOffered = [{
-    imageClass: '',
-    hoverImageClass: '',
-    heading: 'Strategy & Performance Consulting',
-    details: 'Giving you the certainty to drive open and straightforward development.'
-},
+const ServicesOffered = [
     {
+        id: 1,
         imageClass: 'Strategy_Performance_Consulting_logo',
-        hoverImageClass: '',
+        link: 'Strategy_Performance_Consulting_services',
+        heading: 'Strategy & Performance Consulting',
+        details: 'Giving you the certainty to drive open and straightforward development.'
+    },
+    {
+        id: 2,
+        imageClass: 'Onshoreb_logo',
+        link: 'Onshore_Offshore_Advisory',
         heading: 'Onshore & Offshore advisory',
         details: 'Ecovis has experience offering both onshore and offshore advisory services.'
     },
     {
-        imageClass: '',
-        hoverImageClass: '',
+        id: 3,
+        imageClass: 'Risk_Compliance_logo',
+        link: 'Government_risk_compliance',
         heading: 'Governance risk & compliance',
         details: 'We prepare organizations for any unexpected challenges.'
-    }]
-ServicesOffered.map((value, index)=>{
+    },
+    {
+        id: 4,
+        imageClass: 'businessSupport_logo',
+        link: 'BusinessSupportandFinancialReporting',
+        heading: 'Business support & financial Reporting',
+        details: 'Offering accounting business support to grow your business.'
+    },
+    {
+        id: 5,
+        imageClass: 'Legalb_logo',
+        link: 'LitigationLegalServices',
+        heading: 'Legal & Litigation Services',
+        details: 'We create a platform to offer you legal services and consultancy.'
+    },
+    {
+        id: 6,
+        imageClass: 'financial_capital_Services',
+        link: 'Financial_and_Capital_Services',
+        heading: 'Financial & Capital Services',
+        details: 'We want to build a long-term value in the financial services business by transforming it from the ground up.'
+    },
+    {
+        id: 7,
+        imageClass: 'Digital_Transformationb_logo',
+        link: 'Digital_transformation',
+        heading: 'Digital Transformation',
+        details: 'Transform and foster your business digitally using our digital transformation services.'
+    },
+    {
+        id: 8,
+        imageClass: 'Capacityb_logo',
+        link: 'Crossborderandmerchantbankingservices',
+        heading: 'Cross border & merchant banking advice',
+        details: 'Capacity and Capability building is becoming one of the fundamental responsibilities, and it is evolving into a high-quality service.'
+    }
+];
+ServicesOffered.map((value, index) => {
     let ServicesOfferedHTML = `<div class="col-lg-4 col-md-6 col-sm-6 serviceColomn">
-                    <a href="./Strategy_Performance_Consulting_services" class="text-dark" style="text-decoration: none;">
+                    <a href="./${value.link}" class="text-dark" style="text-decoration: none;">
                         <div class="text-center">
                             <div class="mx-auto service_icons  ">
-                                <div class=" w-75 mx-auto services_logo Strategy_Performance_Consulting_logo "></div>
+                                <div class=" w-75 mx-auto services_logo ${value.imageClass} "></div>
                                 <!-- <img src="./ecovis_icons/Assurance.png" class="w-75" alt=""> -->
                             </div>
                             <h4 class="offeringservicesHeading primaryHeading">${value.heading}</h4>
@@ -64,7 +104,204 @@ ServicesOffered.map((value, index)=>{
     $('#ServicesOffered').append(ServicesOfferedHTML);
 })
 
+// Services offered details discription
 
+const ServicesOfferedDitails = [
+    {
+        id: 1,
+        Header: [{
+            h: 'Strategy & Performance Consulting',
+            d: 'The implementation of a strategy plan to fulfil an organization\'s goals is known as strategic execution. The implementation of a method plan to fulfil an organization\'s desires is referred to as strategic execution'
+        }
+        ],
+        p1: [
+            {
+            image: 'StrategicThinkingPlanning.png',
+            h: 'Strategy & Performance Consulting',
+            d: ' Strategy & Performance Consulting is a deliberate and reasonable thought process that focuses on the examination of crucial factors and variables that will influence a company\'s, team\'s, or individual\'s long-term performance.'
+            },
+            {
+                image: 'NewProductDevelopmentApproach.png',
+                h: 'New Product Development Approach',
+                d: ' Product development, often known as new product management, entails the ideation, design, development, and marketing of newly produced or rebranded goods and services.'
+            },
+            {
+                image: 'PerformanceEnablingBusinessGoalsKPIs.png',
+                h: 'Performance Enabling Business Goals & KPIs',
+                d: ' A Key Performance Indicator (KPI) is a measurable indicator that shows how successfully a company is meeting its stated goals and objectives.'
+            },
+            {
+                image: 'CustomerInsightsEngagement.png',
+                h: 'Customer Insights & Engagement',
+                d: 'Consumer insights assist organisations in gaining a better understanding of their customer\'s requirements, attitudes, and purchase habits. Learn how to put these information to good use and make informed decisions.'
+            },
+            {
+                image: 'InstitutionalizingRobustPerformanceManagement.png',
+                h: 'Institutionalizing Robust Performance Management',
+                d: 'Developing a performance management system that improves research organisation\'s impact orientation.'
+            }]
+    },
+    {
+        id: 2,
+        Header: [{
+            h: 'Onshore and Offshore Advisory',
+            d: 'Giving both onshore advisory for home clients who wish to grow outbound and offshore advisory for inbound clients who need to put resources into India. We offer advisory on Accessing Global and Virtual business sectors through outbound speculation and functional plans. Proper Positioning of gathering substances for Global Business. India Entry and Exit Planning.'
+        }
+        ],
+        p1: [
+            {
+                image: 'OffShoreBusinessPlanning.png',
+                h: 'Offshore Business Planning',
+                d: 'We construct a specific offshore business structure that lowers your worldwide tax responsibilities, diversify your business abroad, and secure your assets, starting with the jurisdiction and then the type of entity.'
+            },
+            {
+                image: 'SuccessionPlanning.png',
+                h: 'Succession Planning',
+                d: 'Succession planning can bring together the needs of the business and the interests of the personnel with it\'s broad breadth and open procedure.'
+            },
+            {
+                image: 'Residency_Programs.png',
+                h: 'Residency Programs',
+                d: 'We facilitate the residency application process for applicant, their Designated Dean\'s Offices, Letter of Recommendation (LoR) authors, and programme directors. By allowing applicants to create and deliver their own applications, as well as providing help.'
+            },
+            {
+                image: 'TrustBusinessCompliance.png',
+                h: 'Trust/Business Compliance',
+                d: 'We assist parties and clients in drafting the legal paperwork needed to formalise the agreement for businesses. We will assist you, your family, or business colleagues in avoiding legal blunders in the present and future.'
+            },
+            {
+                image: 'InternationalTax.png',
+                h: 'International Tax',
+                d: 'We\'ll be with you, wherever you are, to help your company to understand and manage their global tax affairs. So you can be confident that you\'re doing the right things at the right times in the right places and that you\'re on track to meet your strategic objectives.'
+            },
+            {
+                image: 'CompanyResolutionMatters.png',
+                h: 'Company Resolution Matters',
+                d: 'We take up company resolution matters and offer the required services. A corporate resolution is usually used by a corporation to establish itself as a separate legal entity from the company\'s owners.'
+            }]
+    },
+    {
+        id: 3,
+        Header: [{
+            h: 'Legal, Risk and IPR Practice',
+            d: 'We combine our compliance risk consulting knowledge with digital technologies and data analytics capabilities. Start-up Mentoring are also the services that is facilitated by ECOVIS.'
+        }
+        ],
+        p1: [
+            {
+                image: 'forensicInvestigations.png',
+                h: 'Forensic Investigations',
+                d: 'We provide the most dependable, economical, objective, discreet, and complete forensic services available, including criminal, legal, and undercover investigations.'
+            },
+            {
+                image: 'DueDiligence.png',
+                h: 'Due Diligence',
+                d: 'Prior to making any major business decisions or acquiring a firm, due diligence is an important business method to consider. You must first understand due diligence and how to perform it correctly before you can put your company\'s finances into action.'
+            },
+            {
+                image: 'SupplyChainBrandRisks.png',
+                h: 'Supply Chain / Brand Risks',
+                d: 'Supply chain and risk management solutions that we deploy can help a company run more efficiently, cut expenses, and improve customer service.'
+            },
+            {
+                image: 'InformationSecuritySystemsConsulting.png',
+                h: 'Information Security & Systems Consulting',
+                d: 'ISMS Consulting services assist a company in developing, implementing, and operating a consistent set of policies, standards, and procedures (PSP) to manage risks to its information assets.'
+            },
+            {
+                image: 'GDPRCompliance.png',
+                h: 'GDPR Compliance',
+                d: 'Expand your horizons by selling to larger firms now that you\'re GDPR compliant. Obtain authorization for stalled agreements and markets that were previously inaccessible.'
+            },
+            {
+                image: 'KYCBackgroundChecks.png',
+                h: 'KYC & Background Checks',
+                d: 'KYC and background checks ensure that the claims made by consumers and/or clients are genuine and that no anomalies exist. As a result, it aids in the development of trust, which is the foundation of all beneficial and successful commercial relationships.'
+            }]
+    },
+    {
+        id: 4,
+        Header: [{
+            h: 'Business Support and Financial Reporting',
+            d: 'Tally ERP, SAP, and other Indian and international accounting software are all familiar to our teams. We ensure that accounts are kept in line with both domestic and international reporting standards. To ensure prompt remediation, our staff reviews, analyses, and flags any potential issues.'
+        }
+        ],
+        p1: [
+            {
+                image: 'forensicInvestigations.png',
+                h: 'Accounting Services',
+                d: 'We give the support, neutrality, and experience that businesses require to prosper in an ever-changing business environment. We provide a wide range of services in a variety of industries to help business owners and managers gain the knowledge they need to succeed.'
+            },
+            {
+                image: 'DueDiligence.png',
+                h: 'Due Diligence',
+                d: 'Prior to making any major business decisions or acquiring a firm, due diligence is an important business method to consider. You must first understand due diligence and how to perform it correctly before you can put your company\'s finances into action.'
+            },
+            {
+                image: 'SupplyChainBrandRisks.png',
+                h: 'Supply Chain / Brand Risks',
+                d: 'Supply chain and risk management solutions that we deploy can help a company run more efficiently, cut expenses, and improve customer service.'
+            },
+            {
+                image: 'InformationSecuritySystemsConsulting.png',
+                h: 'Information Security & Systems Consulting',
+                d: 'ISMS Consulting services assist a company in developing, implementing, and operating a consistent set of policies, standards, and procedures (PSP) to manage risks to its information assets.'
+            },
+            {
+                image: 'GDPRCompliance.png',
+                h: 'GDPR Compliance',
+                d: 'Expand your horizons by selling to larger firms now that you\'re GDPR compliant. Obtain authorization for stalled agreements and markets that were previously inaccessible.'
+            },
+            {
+                image: 'KYCBackgroundChecks.png',
+                h: 'KYC & Background Checks',
+                d: 'KYC and background checks ensure that the claims made by consumers and/or clients are genuine and that no anomalies exist. As a result, it aids in the development of trust, which is the foundation of all beneficial and successful commercial relationships.'
+            }]
+    },
+];
+ServicesOfferedDitails.map((value, index) => {
+    let hvealues = '';
+    value.Header.map((headerValue) => {
+        hvealues = `<div class="text-center">
+                        <h1 class="mainHeading mb-4 text-center text-light">${headerValue.h}</h1>
+                        <h6 class="mx-auto normalText text-justify text-light w-50" style=" line-height: 25px;">
+                        ${headerValue.d}
+                        </h6>
+                    </div>`;
+    });
+    let subPoints = '';
+    console.log(value.p1)
+    value.p1.map((pointsValue, index) => {
+        subPoints += ` <div class="justify-content-center mx-0 row">
+                    <div class="col-md-8">
+                        <div class=" mb-3 row" style="border-bottom: 1px solid #cd1432;">
+                            <div class="col-3">
+                                <div class="text-center">
+                                    <div class="mx-auto service_icons">
+                                        <img src="./images/icon_images/ServicesOfferedDetails/${pointsValue.image}" class="w-75" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-9">
+                                <p class="primaryHeading text-danger ml-3 mb-0 pl-4">${pointsValue.h}</p>
+                                <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">${pointsValue.d}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div> `;
+    })
+    let ServicesOfferedDitailsHTML = ` <div class="Strategy_Performance_Consulting_servicesBanner align-items-center d-flex justify-content-center pageBanner">
+            ${hvealues}
+        </div>
+            <div class="banner ">
+            <div class="discribeStory mt-5">
+                ${subPoints}
+            </div>
+        </div> 
+`;
+
+    $('#ServicesOfferedDitails').append(ServicesOfferedDitailsHTML);
+})
 // =================================================================  index page js end  ==============================================================
 
 
