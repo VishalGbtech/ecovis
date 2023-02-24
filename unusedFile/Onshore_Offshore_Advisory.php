@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ECOVISRKCA - Digital Transformation
+    <title>ECOVISRKCA - On shore and Off shore Advisory
     </title>
-    <link rel="icon" href="./images/ecovis_logoes/Ecovis_rkca_logo_ball.png" type="image/icon type">
+    <link rel="icon" href="../images/ecovis_logoes/Ecovis_rkca_logo_ball.png" type="image/icon type">
 
 </head>
 
@@ -18,10 +18,10 @@
     <!-- banner   -->
     <div class="Strategy_Performance_Consulting_servicesBanner align-items-center d-flex justify-content-center pageBanner">
         <div class="text-center">
-            <h1 class="mainHeading mb-4 px-5 text-center text-light">Digital Transformation </h1>
+            <h1 class="mainHeading mb-4 px-5 text-center text-light">Onshore and Offshore Advisory</h1>
             <h6 class="mx-auto normalText text-justify text-light w-50" style="
     line-height: 25px;
-">Digitization is a measurable return on investment. Our digital solutions ensure efficiency, reduce costs, eliminate process delays, build sustainable enterprises, and enable future-proof data analytics.</h6>
+">Giving both onshore advisory for home clients who wish to grow outbound and offshore advisory for inbound clients who need to put resources into India. We offer advisory on Accessing Global and Virtual business sectors through outbound speculation and functional plans. Proper Positioning of gathering substances for Global Business. India Entry and Exit Planning.</h6>
         </div>
     </div>
     <div class="banner ">
@@ -69,19 +69,18 @@
                         <div class="col-3">
                             <div class="text-center">
                                 <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/DigitalTransformation/CloudManagementSecurity.png" class="w-75" alt="">
-
-                                    <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
+                                    <img src="./images/icon_images/Onshore_Offshore_Advisory/OffShoreBusinessPlanning.png" class="w-75" alt="">
                                 </div>
 
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Cloud Management & Security</p>
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Offshore Business Planning</p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                                We collaborate with you to classify your integrating security, architecture, resiliency, and management models into a functional designs.
 
+
+                                We construct a specific offshore business structure that lowers your worldwide tax responsibilities, diversify your business abroad, and secure your assets, starting with the jurisdiction and then the type of entity.
                             </p>
                         </div>
                     </div>
@@ -93,7 +92,7 @@
                         <div class="col-3">
                             <div class="text-center">
                                 <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/DigitalTransformation/DataAnalytics.png" class="w-75" alt="">
+                                    <img src="./images/icon_images/Onshore_Offshore_Advisory/SuccessionPlanning.png" class="w-75" alt="">
 
                                     <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
                                 </div>
@@ -101,12 +100,11 @@
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Data Analytics</p>
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Succession Planning </p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                            
-                                We assemble, collate, and examine various data types from multiple data sets to address your most premeditated needs.
 
+                                Succession planning can bring together the needs of the business and the interests of the personnel with it's broad breadth and open procedure.
                             </p>
                         </div>
                     </div>
@@ -114,11 +112,11 @@
             </div>
             <div class="justify-content-center mx-0 row">
                 <div class="col-md-8">
-                    <div class=" mb-3 row"style="border-bottom: 1px solid #cd1432;">
+                    <div class=" mb-3 row" style="border-bottom: 1px solid #cd1432;">
                         <div class="col-3">
                             <div class="text-center">
                                 <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/DigitalTransformation/CloudInfraServices.png" class="w-75" alt="">
+                                    <img src="./images/icon_images/Onshore_Offshore_Advisory/Residency_Programs.png" class="w-75" alt="">
 
                                     <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
                                 </div>
@@ -126,34 +124,12 @@
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Cloud Infra Services</p>
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Residency Programs </p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                                Our cloud Infrastructure Services (CIS) benefit our clients as they are dependable, efficient, and proven cloud, and digital infrastructure services.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-           <div class="justify-content-center mx-0 row">
-                <div class="col-md-8">
-                    <div class=" mb-3 row"style="border-bottom: 1px solid #cd1432;">
-                        <div class="col-3">
-                            <div class="text-center">
-                                <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/DigitalTransformation/SAAS.png" class="w-75" alt="">
 
-                                    <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
-                                </div>
 
-                            </div>
-                        </div>
-                        <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">SAAS</p>
-
-                            <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                            
-                                On your SaaS journey, use our best practises to strengthen your organisational, operational, and technical capabilities.
+                                We facilitate the residency application process for applicant, their Designated Dean's Offices, Letter of Recommendation (LoR) authors, and programme directors. By allowing applicants to create and deliver their own applications, as well as providing help.
                             </p>
                         </div>
                     </div>
@@ -161,11 +137,11 @@
             </div>
             <div class="justify-content-center mx-0 row">
                 <div class="col-md-8">
-                    <div class=" mb-3 row"style="border-bottom: 1px solid #cd1432;">
+                    <div class=" mb-3 row" style="border-bottom: 1px solid #cd1432;">
                         <div class="col-3">
                             <div class="text-center">
                                 <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/DigitalTransformation/MobileWebDevelopment.png" class="w-75" alt="">
+                                    <img src="./images/icon_images/Onshore_Offshore_Advisory/TrustBusinessCompliance.png" class="w-75" alt="">
 
                                     <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
                                 </div>
@@ -173,22 +149,47 @@
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Mobile & Web Development</p>
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4"> Trust/Business Compliance</p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                                Our team will aid you to create practical and smooth experiences on any device in developing the most cohesive website and mobile.
+
+                                We assist parties and clients in drafting the legal paperwork needed to formalise the agreement for businesses. We will assist you, your family, or business colleagues in avoiding legal blunders in the present and future.
                             </p>
                         </div>
                     </div>
                 </div>
-            </div>  
-             <div class="justify-content-center mx-0 row">
+            </div>
+            <div class="justify-content-center mx-0 row">
+                <div class="col-md-8">
+                    <div class=" mb-3 row" style="border-bottom: 1px solid #cd1432;">
+                        <div class="col-3">
+                            <div class="text-center">
+                                <div class="mx-auto service_icons">
+                                    <img src="./images/icon_images/Onshore_Offshore_Advisory/InternationalTax.png" class="w-75" alt="">
+
+                                    <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-9">
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">International Tax</p>
+
+                            <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
+
+                                We'll be with you, wherever you are, to help your company to understand and manage their global tax affairs. So you can be confident that you're doing the right things at the right times in the right places and that you're on track to meet your strategic objectives.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="justify-content-center mx-0 row">
                 <div class="col-md-8">
                     <div class=" mb-3 row">
                         <div class="col-3">
                             <div class="text-center">
                                 <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/DigitalTransformation/TechnologyAssessment.png" class="w-75" alt="">
+                                    <img src="./images/icon_images/Onshore_Offshore_Advisory/CompanyResolutionMatters.png" class="w-75" alt="">
 
                                     <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
                                 </div>
@@ -196,19 +197,19 @@
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Technology Assessment
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4"> Company Resolution Matters
 
                             </p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                            
-                                Our IT Assessments assist your company in determining its current state and identifying areas for growth and improvement.
+
+                                We take up company resolution matters and offer the required services. A corporate resolution is usually used by a corporation to establish itself as a separate legal entity from the company's owners.
 
                             </p>
                         </div>
                     </div>
                 </div>
-            </div> 
+            </div>
             <!-- <div class="justify-content-center mx-0 row">
                 <div class="col-md-8">
                     <div class=" mb-3 row" >

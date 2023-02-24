@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ECOVISRKCA - Financial and Capital Services
+    <title>ECOVISRKCA - Digital Transformation
     </title>
-    <link rel="icon" href="./images/ecovis_logoes/Ecovis_rkca_logo_ball.png" type="image/icon type">
+    <link rel="icon" href="../images/ecovis_logoes/Ecovis_rkca_logo_ball.png" type="image/icon type">
 
 </head>
 
@@ -18,10 +18,10 @@
     <!-- banner   -->
     <div class="Strategy_Performance_Consulting_servicesBanner align-items-center d-flex justify-content-center pageBanner">
         <div class="text-center">
-            <h1 class="mainHeading mb-4 text-center text-light">Financial and Capital Services</h1>
+            <h1 class="mainHeading mb-4 px-5 text-center text-light">Digital Transformation </h1>
             <h6 class="mx-auto normalText text-justify text-light w-50" style="
     line-height: 25px;
-">We aim to completely revolutionise the financial services business and provide long-term value to our investors.</h6>
+">Digitization is a measurable return on investment. Our digital solutions ensure efficiency, reduce costs, eliminate process delays, build sustainable enterprises, and enable future-proof data analytics.</h6>
         </div>
     </div>
     <div class="banner ">
@@ -69,7 +69,7 @@
                         <div class="col-3">
                             <div class="text-center">
                                 <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/FinancialCapitalServices/BusinessValuations.png" class="w-75" alt="">
+                                <img src="./images/icon_images/DigitalTransformation/CloudManagementSecurity.png" class="w-75" alt="">
 
                                     <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
                                 </div>
@@ -77,12 +77,10 @@
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Business Valuations </p>
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Cloud Management & Security</p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                            
-
-We have clients with valuation of their enterprises and commercial interests, as well as tangible and intangible assets and complicated, difficult-to-value instruments.
+                                We collaborate with you to classify your integrating security, architecture, resiliency, and management models into a functional designs.
 
                             </p>
                         </div>
@@ -95,7 +93,7 @@ We have clients with valuation of their enterprises and commercial interests, as
                         <div class="col-3">
                             <div class="text-center">
                                 <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/FinancialCapitalServices/TradeWorkingCapitalFinance.png" class="w-75" alt="">
+                                <img src="./images/icon_images/DigitalTransformation/DataAnalytics.png" class="w-75" alt="">
 
                                     <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
                                 </div>
@@ -103,11 +101,11 @@ We have clients with valuation of their enterprises and commercial interests, as
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4"> Trade & Working Capital Finance</p>
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Data Analytics</p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                           
-Our broad trade and capital finance capabilities provide you with the flexibility and control you need to achieve your financial objectives.
+                            
+                                We assemble, collate, and examine various data types from multiple data sets to address your most premeditated needs.
 
                             </p>
                         </div>
@@ -120,7 +118,7 @@ Our broad trade and capital finance capabilities provide you with the flexibilit
                         <div class="col-3">
                             <div class="text-center">
                                 <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/FinancialCapitalServices/FinancialRestructuring.png" class="w-75" alt="">
+                                <img src="./images/icon_images/DigitalTransformation/CloudInfraServices.png" class="w-75" alt="">
 
                                     <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
                                 </div>
@@ -128,12 +126,10 @@ Our broad trade and capital finance capabilities provide you with the flexibilit
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4"> Financial Restructuring </p>
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Cloud Infra Services</p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                           
-We assist you in developing a pre-and post-financial restructuring action plan, as well as contingency preparations.
-
+                                Our cloud Infrastructure Services (CIS) benefit our clients as they are dependable, efficient, and proven cloud, and digital infrastructure services.
                             </p>
                         </div>
                     </div>
@@ -141,11 +137,11 @@ We assist you in developing a pre-and post-financial restructuring action plan, 
             </div>
            <div class="justify-content-center mx-0 row">
                 <div class="col-md-8">
-                    <div class=" mb-3 row" style="border-bottom: 1px solid #cd1432;">
+                    <div class=" mb-3 row"style="border-bottom: 1px solid #cd1432;">
                         <div class="col-3">
                             <div class="text-center">
                                 <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/FinancialCapitalServices/FinancialPlanningControl.png" class="w-75" alt="">
+                                <img src="./images/icon_images/DigitalTransformation/SAAS.png" class="w-75" alt="">
 
                                     <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
                                 </div>
@@ -153,64 +149,66 @@ We assist you in developing a pre-and post-financial restructuring action plan, 
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Financial Planning And Control </p>
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">SAAS</p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-We assist you in developing a strategy that will support your organization's whole financial planning and control process.
-</p>    
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="justify-content-center mx-0 row">
-                <div class="col-md-8">
-                    <div class=" mb-3 row" style="border-bottom: 1px solid #cd1432;">
-                        <div class="col-3">
-                            <div class="text-center">
-                                <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/FinancialCapitalServices/BusinessPlanPitchDecks.png" class="w-75" alt="">
-
-                                    <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
-                                </div>
-
-                            </div>
-                        </div>
-                        <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4"> Business Plan Pitch Decks </p>
-
-                            <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                           
-We provide end-to-end support for creating business plan pitch decks, with a strong emphasis on storytelling to ensure that the startup founder's vision is conveyed.
-</p>
-                        </div>
-                    </div>
-                </div>
-            </div> 
-            <div class="justify-content-center mx-0 row">
-                <div class="col-md-8">
-                    <div class=" mb-3 row" >
-                        <div class="col-3">
-                            <div class="text-center">
-                                <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/FinancialCapitalServices/BudgetingandCapitalAdvisory.png" class="w-75" alt="">
-
-                                    <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
-                                </div>
-
-                            </div>
-                        </div>
-                        <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4"> Budgeting and Capital Advisory </p>
-
-                            <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                           
-We assist you in determining your budgeting and capital requirements by estimating the entire project before it is completed.
-
+                            
+                                On your SaaS journey, use our best practises to strengthen your organisational, operational, and technical capabilities.
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
+            <div class="justify-content-center mx-0 row">
+                <div class="col-md-8">
+                    <div class=" mb-3 row"style="border-bottom: 1px solid #cd1432;">
+                        <div class="col-3">
+                            <div class="text-center">
+                                <div class="mx-auto service_icons">
+                                <img src="./images/icon_images/DigitalTransformation/MobileWebDevelopment.png" class="w-75" alt="">
+
+                                    <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-9">
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Mobile & Web Development</p>
+
+                            <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
+                                Our team will aid you to create practical and smooth experiences on any device in developing the most cohesive website and mobile.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>  
+             <div class="justify-content-center mx-0 row">
+                <div class="col-md-8">
+                    <div class=" mb-3 row">
+                        <div class="col-3">
+                            <div class="text-center">
+                                <div class="mx-auto service_icons">
+                                <img src="./images/icon_images/DigitalTransformation/TechnologyAssessment.png" class="w-75" alt="">
+
+                                    <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-9">
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Technology Assessment
+
+                            </p>
+
+                            <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
+                            
+                                Our IT Assessments assist your company in determining its current state and identifying areas for growth and improvement.
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div> 
             <!-- <div class="justify-content-center mx-0 row">
                 <div class="col-md-8">
                     <div class=" mb-3 row" >
@@ -226,7 +224,7 @@ We assist you in determining your budgeting and capital requirements by estimati
                             <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Intellectual Property  </p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                            Over the years, ECOVIS' specialised IP team has grown to be one of the largest practises among India's full-service law firms, representing a diverse spectrum of clients in industries such as pharmaceuticals, chemicals, mechanical engineering, technology, retail, and others. Patents, designs, trademarks, copyrights, plant varieties, domain names, geographical indications, biodiversity issues, trade secrets, and sensitive information are all areas where our Intellectual Property (IP) lawyers can help.
+                                Over the years, ECOVIS' specialised IP team has grown to be one of the largest practises among India's full-service law firms, representing a diverse spectrum of clients in industries such as pharmaceuticals, chemicals, mechanical engineering, technology, retail, and others. Patents, designs, trademarks, copyrights, plant varieties, domain names, geographical indications, biodiversity issues, trade secrets, and sensitive information are all areas where our Intellectual Property (IP) lawyers can help.
 
                                 Our team consists of legal and technical professionals who work together to provide bespoke, pragmatic, and cost-effective solutions based on our clients' commercial, strategic, and technical objectives. We help a wide range of clients with local and international filings, prosecutions, advice services, transactions, and enforcement.
 

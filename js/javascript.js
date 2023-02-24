@@ -1,3 +1,10 @@
+const url = window.location.href;
+let urlArr = url.split('/');
+let SiteUrlId = urlArr[urlArr.length - 1].split('=')[1];
+console.log(SiteUrlId);
+
+
+
 "use strict";
 var plants = [
     {name: 'KOLKATA', coords: [22.5726, 88.3639]},
@@ -89,7 +96,7 @@ const ServicesOffered = [
 ];
 ServicesOffered.map((value, index) => {
     let ServicesOfferedHTML = `<div class="col-lg-4 col-md-6 col-sm-6 serviceColomn">
-                    <a href="./${value.link}" class="text-dark" style="text-decoration: none;">
+                    <a href="./ServicesOfferedDitails?id=${value.id}" class="text-dark" style="text-decoration: none;">
                         <div class="text-center">
                             <div class="mx-auto service_icons  ">
                                 <div class=" w-75 mx-auto services_logo ${value.imageClass} "></div>
@@ -101,10 +108,8 @@ ServicesOffered.map((value, index) => {
                     </a>
 
                 </div>`;
-    $('#ServicesOffered').append(ServicesOfferedHTML);
+    $('#ServicesOffered').append(ServicesOfferedHTML    );
 })
-
-// Services offered details discription
 
 const ServicesOfferedDitails = [
     {
@@ -258,6 +263,157 @@ const ServicesOfferedDitails = [
                 d: 'KYC and background checks ensure that the claims made by consumers and/or clients are genuine and that no anomalies exist. As a result, it aids in the development of trust, which is the foundation of all beneficial and successful commercial relationships.'
             }]
     },
+    {
+        id: 5,
+        Header: [{
+            h: 'Litigation, GRC Transaction Advisory',
+            d: 'We stay up to date on the latest rules and regulations governing our industry, and we provide our clients with high-quality legal services. We assist both people and corporations with their legal needs.'
+        }
+        ],
+        p1: [
+            {
+                image: 'forensicInvestigations.png',
+                h: 'Litigation',
+                d: 'Our devoted team specialises in depositions for complicated and multi-party litigation and is committed to providing client support around the clock and around the world. We understand the demands of our clients, whether they are local or global, and we deliver dependable service with a personal touch.'
+            },
+            {
+                image: 'DueDiligence.png',
+                h: 'Business Advisory',
+                d: 'Every business need business consulting services since it aids in the identification of possible difficulties and the development of strategies to address those challenges in a timely manner.'
+            },
+            {
+                image: 'SupplyChainBrandRisks.png',
+                h: 'Policy & Regulatory Affairs',
+                d: 'Regulatory policy is an important component of our job since it affects every area of the economy and affects business and citizens\' daily lives. It is critical for governments to guarantee that their economic and social policies are efficient and effective.'
+            },
+            {
+                image: 'InformationSecuritySystemsConsulting.png',
+                h: 'Secretarial Matters',
+                d: 'Our staff provides company secretarial services in a variety of countries, ensuring that we comply with all local regulations and stay up to date on all regulatory developments.'
+            },
+            {
+                image: 'GDPRCompliance.png',
+                h: 'JV, M & A & IPO',
+                d: 'By providing a high-quality selection of M&A, IPO and JV Services, we have carved out a distinct niche in the business. To execute the M&A, IPO, and JV service, our professionals contact with consumers and understand their needs.'
+            }]
+    },
+    {
+        id: 6,
+        Header: [{
+            h: 'Financial and Capital Services',
+            d: 'We aim to completely revolutionise the financial services business and provide long-term value to our investors.'
+        }
+        ],
+        p1: [
+            {
+                image: 'BusinessValuations.png',
+                h: 'Business Valuations',
+                d: 'We have clients with valuation of their enterprises and commercial interests, as well as tangible and intangible assets and complicated, difficult-to-value instruments.'
+            },
+            {
+                image: 'TradeWorkingCapitalFinance.png',
+                h: 'Trade & Working Capital Finance',
+                d: 'Our broad trade and capital finance capabilities provide you with the flexibility and control you need to achieve your financial objectives.'
+            },
+            {
+                image: 'FinancialRestructuring.png',
+                h: 'Financial Restructuring',
+                d: 'We assist you in developing a pre-and post-financial restructuring action plan, as well as contingency preparations.'
+            },
+            {
+                image: 'FinancialPlanningControl.png',
+                h: 'Financial Planning And Control',
+                d: 'We assist you in developing a strategy that will support your organization\'s whole financial planning and control process.'
+            },
+            {
+                image: 'BusinessPlanPitchDecks.png',
+                h: 'Business Plan Pitch Decks',
+                d: 'We provide end-to-end support for creating business plan pitch decks, with a strong emphasis on storytelling to ensure that the startup founder\'s vision is conveyed.'
+            },
+            {
+                image: 'BudgetingandCapitalAdvisory.png',
+                h: 'Budgeting and Capital Advisory',
+                d: 'We assist you in determining your budgeting and capital requirements by estimating the entire project before it is completed.'
+            }]
+    },
+    {
+        id: 7,
+        Header: [{
+            h: 'Digital Transformation',
+            d: 'Digitization is a measurable return on investment. Our digital solutions ensure efficiency, reduce costs, eliminate process delays, build sustainable enterprises, and enable future-proof data analytics.'
+        }
+        ],
+        p1: [
+            {
+                image: 'CloudManagementSecurity.png',
+                h: 'Cloud Management & Security',
+                d: 'We collaborate with you to classify your integrating security, architecture, resiliency, and management models into a functional designs.'
+            },
+            {
+                image: 'DataAnalytics.png',
+                h: 'Data Analytics',
+                d: 'We assemble, collate, and examine various data types from multiple data sets to address your most premeditated needs.'
+            },
+            {
+                image: 'CloudInfraServices.png',
+                h: 'Cloud Infra Services',
+                d: 'Our cloud Infrastructure Services (CIS) benefit our clients as they are dependable, efficient, and proven cloud, and digital infrastructure services.'
+            },
+            {
+                image: 'SAAS.png',
+                h: 'SAAS',
+                d: 'On your SaaS journey, use our best practises to strengthen your organisational, operational, and technical capabilities.'
+            },
+            {
+                image: 'MobileWebDevelopment.png',
+                h: 'Mobile & Web Development',
+                d: 'Our team will aid you to create practical and smooth experiences on any device in developing the most cohesive website and mobile.'
+            },
+            {
+                image: 'TechnologyAssessment.png',
+                h: 'Technology Assessment',
+                d: 'Our IT Assessments assist your company in determining its current state and identifying areas for growth and improvement.'
+            }]
+    },
+    {
+        id: 8,
+        Header: [{
+            h: 'Cross Border & Merchant Banking Advice',
+            d: 'National borders do not limit the scope of a company\'s operations. To run a successful business, any organisation must grasp how cross-border payments work'
+        }
+        ],
+        p1: [
+            {
+                image: 'StartupAccelerator.png',
+                h: 'Start-up Accelerator',
+                d: 'In any business, Our Start-up Program helps entrepreneurs improve their technology and computing capabilities. Our cloud and high-performance computer services help start-ups scale faster.'
+            },
+            {
+                image: 'NavigatingInternationalMarkets.png',
+                h: 'Navigating International Markets',
+                d: 'We can assist you whether you are already in International Markets or are wanting to enter for the first time by providing practical support, we help you navigate through it.'
+            },
+            {
+                image: 'SourcingTechnologySolutions.png',
+                h: 'Sourcing Technology Solutions',
+                d: 'We can decipher any technical complication and provide solutions and services to help you take your business to the next level.'
+            },
+            {
+                image: 'BusinessGrowth.png',
+                h: 'Business Growth',
+                d: 'Our business growth services give your business development solutions more clarity and solidity.'
+            },
+            {
+                image: 'InternationalCapitalStructures.png',
+                h: 'International Capital Structures',
+                d: 'We provide assistance to our client\'s capital structure is the specific mix of debt and equity it employs to fund ongoing operations and expand.'
+            },
+            {
+                image: 'MergerAcquisitions.png',
+                h: 'Merger & Acquisitions',
+                d: 'We assist companies and investment funds through the various stages of buying or selling a company or a business division.'
+            }]
+    }
 ];
 ServicesOfferedDitails.map((value, index) => {
     let hvealues = '';
@@ -270,8 +426,9 @@ ServicesOfferedDitails.map((value, index) => {
                     </div>`;
     });
     let subPoints = '';
-    console.log(value.p1)
+
     value.p1.map((pointsValue, index) => {
+
         subPoints += ` <div class="justify-content-center mx-0 row">
                     <div class="col-md-8">
                         <div class=" mb-3 row" style="border-bottom: 1px solid #cd1432;">
@@ -289,16 +446,20 @@ ServicesOfferedDitails.map((value, index) => {
                         </div>
                     </div>
                 </div> `;
-    })
-    let ServicesOfferedDitailsHTML = ` <div class="Strategy_Performance_Consulting_servicesBanner align-items-center d-flex justify-content-center pageBanner">
-            ${hvealues}
-        </div>
-            <div class="banner ">
-            <div class="discribeStory mt-5">
-                ${subPoints}
-            </div>
-        </div> 
-`;
+    });
+    let ServicesOfferedDitailsHTML = '';
+    if(value.id == SiteUrlId){
+        ServicesOfferedDitailsHTML = ` <div class="Strategy_Performance_Consulting_servicesBanner align-items-center d-flex justify-content-center pageBanner">
+                                            ${hvealues}
+                                        </div>
+                                        <div class="banner ">
+                                            <div class="discribeStory mt-5">
+                                                ${subPoints}
+                                            </div>
+                                        </div> `;
+    }
+
+
 
     $('#ServicesOfferedDitails').append(ServicesOfferedDitailsHTML);
 })
@@ -309,8 +470,8 @@ ServicesOfferedDitails.map((value, index) => {
 
 // Management Board
 
-const ManagementBoard = [{
-
+const ManagementBoard = [
+    {
     image: '01_Pankaj_Bhargava.jpg',
     Name: 'Pankaj Bhargava',
     position: 'Strategy & Performance Consulting',
@@ -347,7 +508,8 @@ ManagementBoard.map((value) => {
 
 // COE (Center of Excellence) Leads
 
-const COEBoard = [{
+const COEBoard = [
+    {
     image: '22_shruti.jpg',
     Name: 'Shruti Ambegaonkar',
     position: 'Strategy & Performance Consulting',
@@ -366,7 +528,7 @@ const COEBoard = [{
         Name: 'D. Bala',
         position: 'Associate Director at Netrika Consulting India Pvt Ltd',
         id: 8
-    },
+    }
 ];
 
 COEBoard.map((value) => {
@@ -390,7 +552,8 @@ COEBoard.map((value) => {
 // =================================================================  index page js end  ==============================================================
 
 // =================================================================  teamSpecification js  ==============================================================
-const TeamMembersArray = [{
+const TeamMembersArray = [
+    {
     id: 4,
     image: 'Shruti-Ambegaoker.png',
     name: 'SHRUTI AMBEGAOKER',
@@ -457,7 +620,8 @@ const TeamMembersArray = [{
         details: ['Leading Business Support Services vertical and  responsible for expansion of the firm across India.',
             ' Have a rich Corporate experience across diverse industries in different verticals.',
             ' A trained Chartered Accountant with deep expertise in Finance. Forward thinking Finance professional with strong proactive Management skills and extensive knowledge of the Indian market']
-    }, {
+    },
+    {
         id: 8,
         image: '10_D._Bala.jpg',
         name: 'Balasubramaniam Durgavarjhula',
@@ -480,16 +644,11 @@ const TeamMembersArray = [{
         details: ['A legal professional with over 20 years of experience, delivering innovative IP/brand protection (anti-counterfeiting, anti-diversion, product tampering and Infringement) solutions.',
             'Extensive experience in developing, implementing and communicating global / regional IP strategy and managing execution of holistic and impactful IP / brand protection programs',
             'Highly skilled in navigating through matrix structures and have benefited immensely from the multi-cultural exposure offered by leading European, US and Asian companies. Versatility in managing key external stakeholders, large and complex projects. Good communication and conflict resolution skills. Adept at balancing resources and schedules in high-pressured environments. Excellent networking skills.']
-    },
-
+    }
 ];
 
 // get id from url
 
-let url = window.location.href;
-let urlArr = url.split('/');
-let id = urlArr[urlArr.length - 1].split('=')[1];
-console.log(id);
 
 TeamMembersArray.map((value, index) => {
     let Expertise = '';
@@ -509,7 +668,7 @@ TeamMembersArray.map((value, index) => {
         Details += `<p class="mb-2">${d}</p>`;
     });
     let HTML;
-    if (value.id == id) {
+    if (value.id == SiteUrlId) {
         HTML = `  <div class="row">
                        <div class="col-4">
                             <div class="" id="memberImage">

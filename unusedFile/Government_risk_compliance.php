@@ -5,8 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ECOVISRKCA - Cross border and merchant banking services</title>
-    <link rel="icon" href="./images/ecovis_logoes/Ecovis_rkca_logo_ball.png" type="image/icon type">
+    <title>ECOVISRKCA - Government, Risk & Compliance
+    </title>
+    <link rel="icon" href="../images/ecovis_logoes/Ecovis_rkca_logo_ball.png" type="image/icon type">
 
 </head>
 
@@ -17,11 +18,12 @@
     <!-- banner   -->
     <div class="Strategy_Performance_Consulting_servicesBanner align-items-center d-flex justify-content-center pageBanner">
         <div class="text-center">
-            <h1 class="mainHeading mb-4 text-center text-light">Cross Border & Merchant Banking Advice</h1>
+            <h1 class="mainHeading mb-4 px-5 text-center text-light">Legal, Risk and IPR Practice </h1>
             <h6 class="mx-auto normalText text-justify text-light w-50" style="
     line-height: 25px;
-">National borders do not limit the scope of a company's operations. To run a successful business, any organisation must grasp how cross-border payments work
-</h6>
+">
+                We combine our compliance risk consulting knowledge with digital technologies and data analytics capabilities. Start-up Mentoring are also the services that is facilitated by ECOVIS.
+            </h6>
         </div>
     </div>
     <div class="banner ">
@@ -69,7 +71,7 @@
                         <div class="col-3">
                             <div class="text-center">
                                 <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/CrossBorderandMerchantBankingAdvice/StartupAccelerator.png" class="w-75" alt="">
+                                    <img src="./images/icon_images/Government_risk_compliance/forensicInvestigations.png" class="w-75" alt="">
 
                                     <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
                                 </div>
@@ -77,10 +79,11 @@
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Start-up Accelerator  </p>
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Forensic Investigations</p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                            In any business, Our Start-up Program helps entrepreneurs improve their technology and computing capabilities. Our cloud and high-performance computer services help start-ups scale faster. 
+
+                                We provide the most dependable, economical, objective, discreet, and complete forensic services available, including criminal, legal, and undercover investigations.
                             </p>
                         </div>
                     </div>
@@ -92,7 +95,7 @@
                         <div class="col-3">
                             <div class="text-center">
                                 <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/CrossBorderandMerchantBankingAdvice/NavigatingInternationalMarkets.png" class="w-75" alt="">
+                                    <img src="./images/icon_images/Government_risk_compliance/DueDiligence.png" class="w-75" alt="">
 
                                     <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
                                 </div>
@@ -100,12 +103,11 @@
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Navigating International Markets </p>
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Due Diligence</p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                            
-                                We can assist you whether you are already in International Markets or are wanting to enter for the first time by providing practical support, we help you navigate through it.
 
+                                Prior to making any major business decisions or acquiring a firm, due diligence is an important business method to consider. You must first understand due diligence and how to perform it correctly before you can put your company's finances into action.
                             </p>
                         </div>
                     </div>
@@ -113,34 +115,11 @@
             </div>
             <div class="justify-content-center mx-0 row">
                 <div class="col-md-8">
-                    <div class=" mb-3 row"style="border-bottom: 1px solid #cd1432;">
-                        <div class="col-3">
-                            <div class="text-center">
-                                <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/CrossBorderandMerchantBankingAdvice/SourcingTechnologySolutions.png" class="w-75" alt="">
-                                    
-                                    <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
-                                </div>
-
-                            </div>
-                        </div>
-                        <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Sourcing Technology Solutions </p>
-
-                            <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                            We can decipher any technical complication and provide solutions and services to help you take your business to the next level.
-</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-             <div class="justify-content-center mx-0 row">
-                <div class="col-md-8">
                     <div class=" mb-3 row" style="border-bottom: 1px solid #cd1432;">
                         <div class="col-3">
                             <div class="text-center">
                                 <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/CrossBorderandMerchantBankingAdvice/BusinessGrowth.png" class="w-75" alt="">
+                                    <img src="./images/icon_images/Government_risk_compliance/SupplyChainBrandRisks.png" class="w-75" alt="">
 
                                     <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
                                 </div>
@@ -148,10 +127,12 @@
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Business Growth</p>
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4"> Supply Chain / Brand Risks</p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                            Our business growth services give your business development solutions more clarity and solidity.</p>
+
+                                Supply chain and risk management solutions that we deploy can help a company run more efficiently, cut expenses, and improve customer service.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -162,7 +143,7 @@
                         <div class="col-3">
                             <div class="text-center">
                                 <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/CrossBorderandMerchantBankingAdvice/InternationalCapitalStructures.png" class="w-75" alt="">
+                                    <img src="./images/icon_images/Government_risk_compliance/InformationSecuritySystemsConsulting.png" class="w-75" alt="">
 
                                     <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
                                 </div>
@@ -170,35 +151,88 @@
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4"> International Capital Structures</p>
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Information Security & Systems Consulting</p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                           
-                                We provide assistance to our client's capital structure is the specific mix of debt and equity it employs to fund ongoing operations and expand.</p>
+
+                                ISMS Consulting services assist a company in developing, implementing, and operating a consistent set of policies, standards, and procedures (PSP) to manage risks to its information assets.</p>
                         </div>
                     </div>
                 </div>
-            </div> 
+            </div>
             <div class="justify-content-center mx-0 row">
+                <div class="col-md-8">
+                    <div class=" mb-3 row" style="border-bottom: 1px solid #cd1432;">
+                        <div class="col-3">
+                            <div class="text-center">
+                                <div class="mx-auto service_icons">
+                                    <img src="./images/icon_images/Government_risk_compliance/GDPRCompliance.png" class="w-75" alt="">
+
+                                    <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-9">
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">GDPR Compliance</p>
+
+                            <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
+
+                                Expand your horizons by selling to larger firms now that you're GDPR compliant. Obtain authorization for stalled agreements and markets that were previously inaccessible.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="justify-content-center mx-0 row">
+                <div class="col-md-8">
+                    <div class=" mb-3 row">
+                        <div class="col-3">
+                            <div class="text-center">
+                                <div class="mx-auto service_icons">
+                                    <img src="./images/icon_images/Government_risk_compliance/KYCBackgroundChecks.png" class="w-75" alt="">
+
+                                    <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-9">
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">KYC & Background Checks
+
+                            </p>
+
+                            <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
+
+
+                                KYC and background checks ensure that the claims made by consumers and/or clients are genuine and that no anomalies exist. As a result, it aids in the development of trust, which is the foundation of all beneficial and successful commercial relationships.
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- <div class="justify-content-center mx-0 row">
                 <div class="col-md-8">
                     <div class=" mb-3 row" >
                         <div class="col-3">
                             <div class="text-center">
                                 <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/CrossBorderandMerchantBankingAdvice/MergerAcquisitions.png" class="w-75" alt="">
-
-                                    <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
+                                    <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt="">
                                 </div>
 
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4"> Merger & Acquisitions</p>
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Intellectual Property  </p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                           
-                                We assist companies and investment funds through the various stages of buying or selling a company or a business division.
-                          </p>
+                                Over the years, ECOVIS' specialised IP team has grown to be one of the largest practises among India's full-service law firms, representing a diverse spectrum of clients in industries such as pharmaceuticals, chemicals, mechanical engineering, technology, retail, and others. Patents, designs, trademarks, copyrights, plant varieties, domain names, geographical indications, biodiversity issues, trade secrets, and sensitive information are all areas where our Intellectual Property (IP) lawyers can help.
+
+                                Our team consists of legal and technical professionals who work together to provide bespoke, pragmatic, and cost-effective solutions based on our clients' commercial, strategic, and technical objectives. We help a wide range of clients with local and international filings, prosecutions, advice services, transactions, and enforcement.
+
+                            </p>
                         </div>
                     </div>
                 </div>

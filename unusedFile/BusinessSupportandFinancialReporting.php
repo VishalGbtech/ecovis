@@ -5,10 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ECOVISRKCA - Legal & Litigation Services
+    <title>ECOVISRKCA - Business Support and Financial Reporting
     </title>
-    <link rel="icon" href="./images/ecovis_logoes/Ecovis_rkca_logo_ball.png" type="image/icon type">
-
+    <link rel="icon" href="../images/ecovis_logoes/Ecovis_rkca_logo_ball.png" type="image/icon type">
 </head>
 
 <body>
@@ -18,12 +17,12 @@
     <!-- banner   -->
     <div class="Strategy_Performance_Consulting_servicesBanner align-items-center d-flex justify-content-center pageBanner">
         <div class="text-center">
-            <h1 class="mainHeading mb-4 px-5 text-center text-light">Litigation, GRC Transaction Advisory</h1>
+            <h1 class="mainHeading mb-4 px-5 text-center text-light">Business Support and Financial Reporting</h1>
             <h6 class="mx-auto normalText text-justify text-light w-50" style="
     line-height: 25px;
 ">
-We stay up to date on the latest rules and regulations governing our industry, and we provide our clients with high-quality legal services. We assist both people and corporations with their legal needs.
-</h6>
+                Tally ERP, SAP, and other Indian and international accounting software are all familiar to our teams. We ensure that accounts are kept in line with both domestic and international reporting standards. To ensure prompt remediation, our staff reviews, analyses, and flags any potential issues.
+            </h6>
         </div>
     </div>
     <div class="banner ">
@@ -71,7 +70,7 @@ We stay up to date on the latest rules and regulations governing our industry, a
                         <div class="col-3">
                             <div class="text-center">
                                 <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/LitigationLegalServices/Litigation.png" class="w-75" alt="">
+                                    <img src="../images/icon_images/BusinessSupportandFinancialReporting/AccountingServices.png" class="w-75" alt="">
 
                                     <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
                                 </div>
@@ -79,14 +78,11 @@ We stay up to date on the latest rules and regulations governing our industry, a
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Litigation</p>
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4"> Accounting Services</p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                            
 
-                            Our devoted team specialises in depositions for complicated and multi-party litigation and is committed to providing client support around the clock and around the world. We understand the demands of our clients, whether they are local or global, and we deliver dependable service with a personal touch.
-
-</p>
+                                We give the support, neutrality, and experience that businesses require to prosper in an ever-changing business environment. We provide a wide range of services in a variety of industries to help business owners and managers gain the knowledge they need to succeed.</p>
                         </div>
                     </div>
                 </div>
@@ -97,7 +93,7 @@ We stay up to date on the latest rules and regulations governing our industry, a
                         <div class="col-3">
                             <div class="text-center">
                                 <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/LitigationLegalServices/BusinessAdvisory.png" class="w-75" alt="">
+                                    <img src="../images/icon_images/BusinessSupportandFinancialReporting/BusinessAnalytics.png" class="w-75" alt="">
 
                                     <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
                                 </div>
@@ -105,50 +101,23 @@ We stay up to date on the latest rules and regulations governing our industry, a
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4"> Business Advisory</p>
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Business Analytics</p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                            
-                           
-Every business need business consulting services since it aids in the identification of possible difficulties and the development of strategies to address those challenges in a timely manner.
-</p>
+
+                                We work with firms in a wide range of industries to help them take advantage of the opportunities provided by business analytics.
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="justify-content-center mx-0 row">
-                <div class="col-md-8">
-                    <div class=" mb-3 row"style="border-bottom: 1px solid #cd1432;">
-                        <div class="col-3">
-                            <div class="text-center">
-                                <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/LitigationLegalServices/PolicyRegulatoryAffairs.png" class="w-75" alt="">
-
-                                    <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
-                                </div>
-
-                            </div>
-                        </div>
-                        <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">  Policy & Regulatory Affairs</p>
-
-                            <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                           
-                           
-Regulatory policy is an important component of our job since it affects every area of the economy and affects business and citizens' daily lives. It is critical for governments to guarantee that their economic and social policies are efficient and effective.
-
-</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-           <div class="justify-content-center mx-0 row">
                 <div class="col-md-8">
                     <div class=" mb-3 row" style="border-bottom: 1px solid #cd1432;">
                         <div class="col-3">
                             <div class="text-center">
                                 <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/LitigationLegalServices/SecretarialMatters.png" class="w-75" alt="">
+                                    <img src="../images/icon_images/BusinessSupportandFinancialReporting/IndiaEntryConsulting.png" class="w-75" alt="">
 
                                     <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
                                 </div>
@@ -156,12 +125,61 @@ Regulatory policy is an important component of our job since it affects every ar
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Secretarial Matters</p>
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">India Entry Consulting </p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                            
-                            
-Our staff provides company secretarial services in a variety of countries, ensuring that we comply with all local regulations and stay up to date on all regulatory developments.</p>
+
+                                Our India market entry consulting team specialises in offering comprehensive solutions to global corporations with operations in India.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="justify-content-center mx-0 row">
+                <div class="col-md-8">
+                    <div class=" mb-3 row" style="border-bottom: 1px solid #cd1432;">
+                        <div class="col-3">
+                            <div class="text-center">
+                                <div class="mx-auto service_icons">
+                                    <img src="../images/icon_images/BusinessSupportandFinancialReporting/ManagementSystems.png" class="w-75" alt="">
+
+                                    <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-9">
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">Management Systems</p>
+
+                            <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
+
+
+                                We offer a comprehensive range of advisory services around the world, including management systems.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="justify-content-center mx-0 row">
+                <div class="col-md-8">
+                    <div class=" mb-3 row" style="border-bottom: 1px solid #cd1432;">
+                        <div class="col-3">
+                            <div class="text-center">
+                                <div class="mx-auto service_icons">
+                                    <img src="../images/icon_images/BusinessSupportandFinancialReporting/MISDashboards.png" class="w-75" alt="">
+
+                                    <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-9">
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4"> MIS & Dashboards</p>
+
+                            <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
+
+                                The Management Information System's (MIS) Dashboard creates a visual insights into the data it stores. We also assist you in making data-driven decisions.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -172,7 +190,7 @@ Our staff provides company secretarial services in a variety of countries, ensur
                         <div class="col-3">
                             <div class="text-center">
                                 <div class="mx-auto service_icons">
-                                <img src="./images/icon_images/LitigationLegalServices/JVMAIPO.png" class="w-75" alt="">
+                                    <img src="../images/icon_images/BusinessSupportandFinancialReporting/OnGoingBusinessSupport.png" class="w-75" alt="">
 
                                     <!-- <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt=""> -->
                                 </div>
@@ -180,43 +198,19 @@ Our staff provides company secretarial services in a variety of countries, ensur
                             </div>
                         </div>
                         <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">   
-                            JV, M & A & IPO</p>
-
-                            <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                         
-By providing a high-quality selection of M&A, IPO and JV Services, we have carved out a distinct niche in the business. To execute the M&A, IPO, and JV service, our professionals contact with consumers and understand their needs.
-</p>
-                        </div>
-                    </div>
-                </div>
-            </div> 
-            <!-- <div class="justify-content-center mx-0 row">
-                <div class="col-md-8">
-                    <div class=" mb-3 row">
-                        <div class="col-3">
-                            <div class="text-center">
-                                <div class="mx-auto service_icons">
-                                    <img src="./ecovis_icons/TAXATION-removebg.png" class="w-100" alt="">
-                                </div>
-
-                            </div>
-                        </div>
-                        <div class="col-9">
-                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">KYC & Background Checks
+                            <p class="primaryHeading text-danger ml-3 mb-0 pl-4">On Going Business Support
 
                             </p>
 
                             <p class="ml-3 pl-4" style=" font-size: var(--secondry_font_size);">
-                            
 
-                                KYC and background checks ensure that the claims made by consumers and/or clients are genuine and that no anomalies exist. As a result, it aids in the development of trust, which is the foundation of all beneficial and successful commercial relationships.
+                                By offering a back office for your regulatory compliances, we can manage your company's ongoing business tasks much easily.
 
                             </p>
                         </div>
                     </div>
                 </div>
-            </div> -->
+            </div>
             <!-- <div class="justify-content-center mx-0 row">
                 <div class="col-md-8">
                     <div class=" mb-3 row" >
